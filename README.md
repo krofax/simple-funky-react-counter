@@ -1,2 +1,2 @@
 # simple-funky-react-counter
-Funky react counter
+React Boilerplate Counter
