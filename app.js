@@ -4,7 +4,7 @@ class App extends React.Component {
     constructor() {
         super()
         this.state = {
-            count: 0
+            count: 2
         }
         this.handleClick = this.handleClick.bind(this)
         this.resetClick = this.resetClick.bind(this)
